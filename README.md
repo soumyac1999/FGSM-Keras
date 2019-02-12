@@ -8,3 +8,5 @@ Implementation of 'Fast Gradient Sign Method' for generating adversarial example
 
 ## Examples
 
+__Targeted Attack:__ Orange -> Cucumber
+![](https://github.com/soumyac1999/FGSM-Keras/blob/master/res_orange.png)
